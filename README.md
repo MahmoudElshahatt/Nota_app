@@ -3,7 +3,7 @@
 
 The app is for taking notes for you and updating them, it stores this data in SQLite Database.
 
-
+</br>
 
 # Screenshots
 
