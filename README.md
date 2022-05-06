@@ -5,7 +5,7 @@ The app is for taking notes for you and updating them, it stores this data in SQ
 
 
 
-# App Preview
+# Screenshots
 
 <img src="https://user-images.githubusercontent.com/79477855/167094764-fd7992cf-6ff6-4e01-8360-e0babec87fbd.jpg" width="350" height="700"> <img src="https://user-images.githubusercontent.com/79477855/167094846-8f149ac9-a4a5-4f2e-92a8-dc75f3e1b69f.jpg" width="350" height="700">
 
