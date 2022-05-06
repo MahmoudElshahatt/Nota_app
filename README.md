@@ -14,9 +14,9 @@ The app is for taking notes for you and updating them, it stores this data in SQ
 <img src="https://user-images.githubusercontent.com/79477855/167095377-5c7eb0ae-0e9f-45fa-b756-29f9368e9026.jpg" width="350" height="700"> <img src="https://user-images.githubusercontent.com/79477855/167095393-93e790b9-6b6b-4c3d-828e-74edc0959947.jpg" width="350" height="700">
 
 # Tech stack
-* **RecyclerView**.
-* **SQlite Database**.
+* **SQLite Database**.
 * **Shared Preferences**.
+* **RecyclerView**.
 * **Alert Dialog**.
 
 
