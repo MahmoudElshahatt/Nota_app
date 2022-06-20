@@ -17,6 +17,6 @@ The app is for taking notes for you and updating them, it stores this data in SQ
 * **SQLite Database**.
 * **Shared Preferences**.
 * **RecyclerView**.
-* **Alert Dialog**.
+* **AlertDialog**.
 
 
